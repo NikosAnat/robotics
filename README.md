@@ -21,11 +21,13 @@
 
 Υλικά κατασκευής (και ενδεικτικές τιμές):
 
-(x1)	Arduino Uno - 10€,
-(x3)	Κινητήρες  DC - 5€,
-(x1)	Κινητήρες Servo - 10€,
-(x1)	Motor Shield - 3€,
-(x6)	Micro Switch - 0.50€,
-(x3)	Αισθητήρες Απόστασης  IR - 3€,
-(x1)	Bluetooth Module - 8€
+(x1)	Arduino Uno - 10 €,
+(x3)	Κινητήρες  DC - 5 €,
+(x1)	Κινητήρες Servo - 10 €,
+(x1)	Motor Shield - 3 €,
+(x6)	Micro Switch - 0.50 €,
+(x3)	Αισθητήρες Απόστασης  IR - 3 €,
+(x1)	Bluetooth Module - 8 €
+
+ΣΥΝΟΛΟ: 58 €
 
